@@ -19,9 +19,13 @@ C++
 I regularly update this repository with:
 
 ✅ Solved coding problems
+
 ✅ Concept-based examples
+
 ✅ Interview preparation questions
+
 ✅ Notes and explanations
+
 ✅ OOP examples in C++
 
 
