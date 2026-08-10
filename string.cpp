@@ -28,6 +28,8 @@ using namespace std;
 
 // }
 
+
+
 //replace space 
 void replaceSpace(char sentence[]){
     int i = 0;
